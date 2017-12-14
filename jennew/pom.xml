@@ -108,7 +108,7 @@
                 <configuration>
 
                         <includes>
-                            <include>runner.run.java</include>
+                            <include>runner.RunTest.java</include>
                         </includes>
                     </configuration>
 
