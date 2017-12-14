@@ -108,7 +108,7 @@
                 <configuration>
 
                         <includes>
-                            <include>stepdefs.runner.run.java</include>
+                            <include>runner.run.java</include>
                         </includes>
                     </configuration>
 
