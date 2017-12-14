@@ -17,6 +17,6 @@ import cucumber.api.junit.Cucumber;
 
 )
 
-public class run {
+public class RunTest {
 
 }
